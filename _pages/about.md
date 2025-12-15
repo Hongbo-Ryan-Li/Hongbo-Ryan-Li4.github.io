@@ -15,4 +15,4 @@ In my free time, I enjoy swimming, playing tennis, and kayaking. In another chap
 
 
 Contact:
-hongbo.24li<at>gmail<dot>com
+hongbo.24li@gmail.com
