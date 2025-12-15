@@ -14,5 +14,5 @@ I am  interested in developing efficient and provably effective methods for stat
 In my free time, I enjoy swimming, playing tennis, and kayaking. In another chapter, I played for HUST’s basketball second team in CUBAL Division II as an amateur player.
 
 
-Contact
-hongbo.24li@gmail.com
+Contact:
+hongbo.24li<at>gmail<dot>com
