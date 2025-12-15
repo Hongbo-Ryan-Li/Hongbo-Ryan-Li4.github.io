@@ -67,7 +67,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/hongbo-ryan-li/"
+  linkedin         : "https://www.linkedin.com/in/hongbo-ryan-li"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -274,15 +274,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
